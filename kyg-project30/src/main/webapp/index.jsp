@@ -8,6 +8,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-메인화면
+메인화면 1
 </body>
 </html>
